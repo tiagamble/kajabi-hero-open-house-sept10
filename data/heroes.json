@@ -1,0 +1,567 @@
+[
+  {
+    "id": 1,
+    "name": "Bernd Brodtraeger",
+    "businessName": "Bernth's Guitar Academy",
+    "niche": "Guitar Education & Music Instruction",
+    "stage": "Scale",
+    "website": "bernth-guitaracademy.mykajabi.com",
+    "email": "office@bernth.at",
+    "photo": "/heroes/bernd-brodtraeger.jpg",
+    "vitals": {
+      "mrr": 499,
+      "arr": 5988,
+      "tenure": "2.2 years",
+      "signupDate": "2024-06-01",
+      "contacts": 34369,
+      "contactsAdded12mo": 32161,
+      "members": 34245,
+      "membersAdded12mo": 32688,
+      "sites": 3,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 1232405,
+      "trailing12mo": 765125,
+      "yoY": "+127.8%",
+      "recentQuarter": "+16.9%",
+      "processorMix": {
+        "kajabi": 534713.5,
+        "stripe": 997,
+        "paypal": 265889
+      },
+      "note": "Breakout year. GMV more than doubled YoY, still accelerating. 33.2% off-platform (PayPal) = $265K migration opportunity."
+    },
+    "csmFocus": "Resolve 3-of-3 site limit and 78-of-100 product ceiling. Plan-GMV mismatch: $765K trailing on Pro Monthly.",
+    "technicalSupport": "PayPal consolidation ($265K). Monitor infrastructure at 34K members. Verify customer tracking/attribution.",
+    "riskFlags": "At 100% site limit, 78% product limit while growing fastest. Next launch will require either plan upgrade or external platform.",
+    "stage2": "Scale"
+  },
+  {
+    "id": 2,
+    "name": "Cinthia Holguin",
+    "businessName": "Brows Couple",
+    "niche": "Beauty & Brow Education",
+    "stage": "Growth",
+    "website": "browscouple.com",
+    "email": "app@browscouple.com",
+    "photo": "/heroes/cinthia-holguin.jpg",
+    "vitals": {
+      "mrr": 329,
+      "arr": 3948,
+      "tenure": "5.6 years",
+      "signupDate": "2020-05-15",
+      "contacts": 15200,
+      "contactsAdded12mo": 2100,
+      "members": 820,
+      "membersAdded12mo": 180,
+      "sites": 1,
+      "addOns": ["Branded Mobile App", "Podcast", "Community"],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 2350000,
+      "trailing12mo": 397472,
+      "yoY": "-19.6%",
+      "recentQuarter": "-22%",
+      "processorMix": {
+        "kajabi": 364107,
+        "paypal": 33365
+      },
+      "note": "Deepest add-on adoption in cohort. Reported 'too many offers against 141 products.' GMV softening but infrastructure complete."
+    },
+    "csmFocus": "Product portfolio rationalization. She said we have too many offers. Strategy conversation on consolidation and messaging.",
+    "technicalSupport": "Audit existing automations and product structure. Identify redundancy and consolidation opportunities.",
+    "riskFlags": "Offers proliferation exceeds audience ability to consume. Recent GMV decline suggests messaging/conversion issue.",
+    "stage2": "Growth"
+  },
+  {
+    "id": 3,
+    "name": "Seth Powell",
+    "businessName": "Yogic Studies",
+    "niche": "Yoga & Wellness Education",
+    "stage": "Established",
+    "website": "yogicstudies.com",
+    "email": "seth@yogicstudies.com",
+    "photo": "/heroes/seth-powell.jpg",
+    "vitals": {
+      "mrr": 399,
+      "arr": 4788,
+      "tenure": "7.2 years",
+      "signupDate": "2019-02-15",
+      "contacts": 28500,
+      "contactsAdded12mo": 3200,
+      "members": 1250,
+      "membersAdded12mo": 150,
+      "sites": 2,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 3890000,
+      "trailing12mo": 562857,
+      "yoY": "-13.4%",
+      "recentQuarter": "-15%",
+      "processorMix": {
+        "kajabi": 250570,
+        "stripe": 312287
+      },
+      "note": "Largest migration opportunity: 55.5% off-platform ($312K Stripe). Named specific feature request at RSVP."
+    },
+    "csmFocus": "Kajabi Payments migration conversation. Feature request follow-up. Understand GMV decline drivers.",
+    "technicalSupport": "Plan Stripe-to-KP migration. Reconciliation mapping for $312K transaction history.",
+    "riskFlags": "55.5% off-platform = largest single migration opportunity in cohort. GMV declining.",
+    "stage2": "Established"
+  },
+  {
+    "id": 4,
+    "name": "Suzie & Rory Gutierrez",
+    "businessName": "EZ Biz Inc",
+    "niche": "Government Contracting Education",
+    "stage": "Growth",
+    "website": "ezbizinc.com",
+    "email": "contact@ezbizinc.com",
+    "photo": "/heroes/suzie-gutierrez.jpg",
+    "vitals": {
+      "mrr": 249,
+      "arr": 2988,
+      "tenure": "5.4 years",
+      "signupDate": "2020-08-05",
+      "contacts": 3852,
+      "contactsAdded12mo": 818,
+      "members": 333,
+      "membersAdded12mo": 93,
+      "sites": 1,
+      "addOns": ["Branded Mobile App", "Creator Studio"],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 127692,
+      "trailing12mo": 71385,
+      "yoY": "+103.6%",
+      "recentQuarter": "+132.8%",
+      "processorMix": {
+        "kajabi": 73987,
+        "paypal": 99
+      },
+      "note": "Best payments adoption: 99.87% KP. Three plan limits near ceiling. Strong growth inflection."
+    },
+    "csmFocus": "Plan fit conversation. Best-in-class KP adoption model. Scaling support.",
+    "technicalSupport": "Monitor plan limits as growth continues. No consolidation needed.",
+    "riskFlags": "Three plan limits near ceiling. Rapid scaling may trigger feature friction.",
+    "stage2": "Growth"
+  },
+  {
+    "id": 5,
+    "name": "Glenn Rottmann",
+    "businessName": "The Hypno Vault",
+    "niche": "Hypnotherapy & Wellness",
+    "stage": "Established",
+    "website": "thehypnovault.com",
+    "email": "glenn@hypnovisions.com",
+    "photo": "/heroes/glenn-rottmann.jpg",
+    "vitals": {
+      "mrr": 299,
+      "arr": 3588,
+      "tenure": "4.3 years",
+      "signupDate": "2022-05-10",
+      "contacts": 9500,
+      "contactsAdded12mo": 800,
+      "members": 450,
+      "membersAdded12mo": 50,
+      "sites": 1,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 1150000,
+      "trailing12mo": 251389,
+      "yoY": "-17.3%",
+      "recentQuarter": "-20%",
+      "processorMix": {
+        "kajabi": 175470,
+        "paypal": 75919
+      },
+      "note": "Said 'Retention' to friction question (one word). No login since May 18. Billing Sept 10. GMV declining."
+    },
+    "csmFocus": "Retention save conversation. Understand product-market decline. No login signal is critical.",
+    "technicalSupport": "Account health audit. Confirm platform is performing.",
+    "riskFlags": "No login since May 18. Retention risk. Billing lands on event day (Sept 10).",
+    "stage2": "Established"
+  },
+  {
+    "id": 6,
+    "name": "Laura Alessio",
+    "businessName": "Nurse Coach Alessio",
+    "niche": "Health & Wellness Coaching",
+    "stage": "Launch",
+    "website": "laura-alessio.mykajabi.com",
+    "email": "laura@nursecoachalessio.com",
+    "photo": "/heroes/laura-alessio.jpg",
+    "vitals": {
+      "mrr": 179,
+      "arr": 2148,
+      "tenure": "1.2 years",
+      "signupDate": "2024-11-05",
+      "contacts": 6013,
+      "contactsAdded12mo": 2158,
+      "members": 146,
+      "membersAdded12mo": 100,
+      "sites": 1,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 12801,
+      "trailing12mo": 5430,
+      "yoY": "-6.9%",
+      "recentQuarter": "-25%",
+      "processorMix": {
+        "kajabi": 6495
+      },
+      "note": "Earliest stage. Only hero with 'knowledge gap' answer (on clients). 100% KP. Route to 1:1 technical."
+    },
+    "csmFocus": "Knowledge-gap education. Understanding her ideal client. Conversion optimization for her funnel.",
+    "technicalSupport": "1:1 technical deep-dive on her setup. She asked for this specifically.",
+    "riskFlags": "Earliest stage, GMV softening, monetization gap.",
+    "stage2": "Launch"
+  },
+  {
+    "id": 7,
+    "name": "Hayley & Doug Johnson",
+    "businessName": "YouTubepreneur",
+    "niche": "Marketing & Influencer Education",
+    "stage": "Launch",
+    "website": "digitalincomefamily.mykajabi.com",
+    "email": "contact@digitalincomefamily.com",
+    "photo": "/heroes/hayley-doug-johnson.jpg",
+    "vitals": {
+      "mrr": 199,
+      "arr": 2388,
+      "tenure": "3.9 years",
+      "signupDate": "2022-03-05",
+      "contacts": 26065,
+      "contactsAdded12mo": 3035,
+      "members": 1726,
+      "membersAdded12mo": 161,
+      "sites": 1,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": null,
+      "trailing12mo": 0,
+      "yoY": "N/A",
+      "recentQuarter": "N/A",
+      "processorMix": {},
+      "note": "SENSITIVE: $0.00 recorded revenue confirmed in both super admin and HeroBot. Do NOT reference in group setting."
+    },
+    "csmFocus": "SENSITIVE: Do not mention numbers in group. Monetization gap — audience exists but revenue not captured.",
+    "technicalSupport": "Investigate whether off-platform or tracking gap. Site shows 'coming soon.'",
+    "riskFlags": "SENSITIVE. Zero recorded GMV. Three plan limits maxed. Do not raise in group setting.",
+    "stage2": "Launch"
+  },
+  {
+    "id": 8,
+    "name": "Brandon Trentalange",
+    "businessName": "Millennial Marketer",
+    "niche": "Kajabi Services & Course Creation",
+    "stage": "Growth",
+    "website": "altitudeuniversity.mykajabi.com",
+    "email": "brandon@millennialmktr.com",
+    "photo": "/heroes/brandon-trentalange.jpg",
+    "vitals": {
+      "mrr": 199,
+      "arr": 2388,
+      "tenure": "3.9 years",
+      "signupDate": "2022-06-01",
+      "contacts": 26156,
+      "contactsAdded12mo": 699,
+      "members": 649,
+      "membersAdded12mo": 478,
+      "sites": 2,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 619992,
+      "trailing12mo": 197662,
+      "yoY": "-26.7%",
+      "recentQuarter": "+25.7%",
+      "processorMix": {
+        "kajabi": 198467
+      },
+      "note": "Only hero asking about Kajabi MCP. Account usage data uncaptured. Recent quarter inflecting up despite YoY decline."
+    },
+    "csmFocus": "Kajabi MCP conversation. Account usage audit. Second site (Altitude University) is new membership model.",
+    "technicalSupport": "Map product and site usage. Confirm two-site strategy is intentional.",
+    "riskFlags": "Usage data never captured. YoY down but recent quarter positive inflection.",
+    "stage2": "Growth"
+  },
+  {
+    "id": 9,
+    "name": "Lane Sebring",
+    "businessName": "Preaching Donkey",
+    "niche": "Faith-Based Content",
+    "stage": "Transition",
+    "website": "lanesebring.com",
+    "email": "lane@lanesebring.com",
+    "photo": "/heroes/lane-sebring.jpg",
+    "vitals": {
+      "mrr": 199,
+      "arr": 2388,
+      "tenure": "6.3 years",
+      "signupDate": "2020-02-01",
+      "contacts": 8200,
+      "contactsAdded12mo": 600,
+      "members": 300,
+      "membersAdded12mo": 40,
+      "sites": 4,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 450000,
+      "trailing12mo": 3314,
+      "yoY": "-87.0%",
+      "recentQuarter": "-92%",
+      "processorMix": {
+        "kajabi": 2519,
+        "paypal": 795
+      },
+      "note": "SENSITIVE: Revenue down 87% YoY, 97% below peak. He already knows his funnels are broken and said so himself. Do NOT say the number."
+    },
+    "csmFocus": "SENSITIVE: Do not raise numbers. He knows funnels are broken. Only hero choosing hands-on technical. Route accordingly.",
+    "technicalSupport": "1:1 technical deep-dive. He asked for this. Funnel audit and rebuild support.",
+    "riskFlags": "SENSITIVE. Severe revenue decline. Correct funnel priority. Do not mention decline in group.",
+    "stage2": "Transition"
+  },
+  {
+    "id": 10,
+    "name": "Dylan Stewart",
+    "businessName": "The MacWhisperer",
+    "niche": "Apple/Tech Productivity Education",
+    "stage": "Scale",
+    "website": "www.themacwhisperer.com",
+    "email": "admin@themacwhisperer.com",
+    "photo": "/heroes/dylan-stewart.jpg",
+    "vitals": {
+      "mrr": 399,
+      "arr": 4788,
+      "tenure": "9.8 years",
+      "signupDate": "2016-04-29",
+      "contacts": 39004,
+      "contactsAdded12mo": 28703,
+      "members": 489,
+      "membersAdded12mo": 342,
+      "sites": 2,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 797356,
+      "trailing12mo": 320105,
+      "yoY": "+1.7%",
+      "recentQuarter": "+224%",
+      "processorMix": {
+        "kajabi": 308118,
+        "stripe": 27465
+      },
+      "note": "Only hero answering nothing to friction question. Launching community. Recent quarter is 224% above historical peak average."
+    },
+    "csmFocus": "Community launch support. Growth account support. No friction reported — proactive touch on scaling infrastructure.",
+    "technicalSupport": "Verify infrastructure handles growth surge. Monitor Stripe at 8.2%.",
+    "riskFlags": "Mid-breakout. Monitor contact growth and plan headroom.",
+    "stage2": "Scale"
+  },
+  {
+    "id": 11,
+    "name": "Michele Park",
+    "businessName": "The SOUL Fitness Brands",
+    "niche": "Fitness Education & Certification",
+    "stage": "Established",
+    "website": "thesoulfitnessbrands.com",
+    "email": "getfit2go@gmail.com",
+    "photo": "/heroes/michele-park.jpg",
+    "vitals": {
+      "mrr": 297,
+      "arr": 3564,
+      "tenure": "10.0 years",
+      "signupDate": "2016-05-15",
+      "contacts": 12500,
+      "contactsAdded12mo": 1200,
+      "members": 850,
+      "membersAdded12mo": 120,
+      "sites": 3,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 1850000,
+      "trailing12mo": 184979,
+      "yoY": "-72.1% vs peak",
+      "recentQuarter": "-75%",
+      "processorMix": {
+        "kajabi": 54121,
+        "paypal": 130858
+      },
+      "note": "Arriving 11:00 AM by choice. Legacy Founders plan. Email list on another platform. 70.9% off-platform."
+    },
+    "csmFocus": "Plan modernization conversation. Email list migration from external platform. Understand peak revenue decline.",
+    "technicalSupport": "Email list consolidation from external platform. Plan upgrade prep.",
+    "riskFlags": "Severe decline vs peak. Legacy plan. Off-platform email list. Arrives late.",
+    "stage2": "Established"
+  },
+  {
+    "id": 12,
+    "name": "Phillip Goltiao",
+    "businessName": "Hymns With Phil",
+    "niche": "Faith-Based Music Education",
+    "stage": "Launch",
+    "website": "hymnswithphil.mykajabi.com",
+    "email": "philip@hymnswithphil.com",
+    "photo": "/heroes/phillip-goltiao.jpg",
+    "vitals": {
+      "mrr": 199,
+      "arr": 2388,
+      "tenure": "0.7 years",
+      "signupDate": "2025-02-03",
+      "contacts": 826,
+      "contactsAdded12mo": 749,
+      "members": 441,
+      "membersAdded12mo": 439,
+      "sites": 1,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 16651.4,
+      "trailing12mo": 14979.1,
+      "yoY": "N/A",
+      "recentQuarter": "~$3,037/month",
+      "processorMix": {
+        "kajabi": 16651.4
+      },
+      "note": "Best conversion of the cohort. Flying in, may depart 3:00 PM. Asked direct focus question at RSVP."
+    },
+    "csmFocus": "Plan-upgrade path as he scales. Direct response to his focus question.",
+    "technicalSupport": "Two-tier membership structure discussion. Early-stage scaling support.",
+    "riskFlags": "May depart early. Travel unbooked. Ramp watching needed.",
+    "stage2": "Launch"
+  },
+  {
+    "id": 13,
+    "name": "Tania Lucely",
+    "businessName": "Tania Lucely",
+    "niche": "Life Coaching & Personal Development",
+    "stage": "Established",
+    "website": "tanialucely.com",
+    "email": "tania@tanialucely.com",
+    "photo": "/heroes/tania-lucely.jpg",
+    "vitals": {
+      "mrr": 299,
+      "arr": 3588,
+      "tenure": "3.4 years",
+      "signupDate": "2023-02-01",
+      "contacts": 32500,
+      "contactsAdded12mo": 8900,
+      "members": 2100,
+      "membersAdded12mo": 600,
+      "sites": 1,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 850000,
+      "trailing12mo": 150315,
+      "yoY": "-55.1%",
+      "recentQuarter": "-58%",
+      "processorMix": {
+        "kajabi": 130774,
+        "paypal": 19541
+      },
+      "note": "Largest social audience. AI credits at 93.8%. Already diagnosed her own problem. GMV declining sharply."
+    },
+    "csmFocus": "AI-focused conversation. She has identified her own path. Support execution.",
+    "technicalSupport": "AI credits monitoring. Feature adoption support.",
+    "riskFlags": "GMV decline sharp. AI-dependent for strategy.",
+    "stage2": "Established"
+  },
+  {
+    "id": 14,
+    "name": "Samantha Weaver",
+    "businessName": "AOMT",
+    "niche": "Professional Education & Certification",
+    "stage": "Established",
+    "website": "aomtcourses.com",
+    "email": "samantha@aomt.com",
+    "photo": "/heroes/samantha-weaver.jpg",
+    "vitals": {
+      "mrr": 999,
+      "arr": 11988,
+      "tenure": "5.8 years",
+      "signupDate": "2020-10-15",
+      "contacts": 45000,
+      "contactsAdded12mo": 4200,
+      "members": 3200,
+      "membersAdded12mo": 400,
+      "sites": 3,
+      "addOns": ["Kajabi Studio"],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 4650000,
+      "trailing12mo": 817442,
+      "yoY": "-3.6%",
+      "recentQuarter": "-5%",
+      "processorMix": {
+        "kajabi": 767126,
+        "paypal": 50316
+      },
+      "note": "SENSITIVE: Highest lifetime GMV ($4.65M). Reported cash flow stress and financial instability. Do NOT lead with upgrade."
+    },
+    "csmFocus": "SENSITIVE: Do not push plan upgrade. Reported cash flow stress. Lead with retention and support.",
+    "technicalSupport": "Operational efficiency focus. Cost reduction and automation.",
+    "riskFlags": "SENSITIVE. Highest GMV but reported cash flow stress. Do not lead with upgrade.",
+    "stage2": "Established"
+  },
+  {
+    "id": 15,
+    "name": "Lauren Messiah",
+    "businessName": "Style Boss Academy",
+    "niche": "Personal Styling & Business Education",
+    "stage": "Growth",
+    "website": "laurenmessiah.com",
+    "email": "info@laurenmessiah.com",
+    "photo": "/heroes/lauren-messiah.jpg",
+    "vitals": {
+      "mrr": 299,
+      "arr": 3588,
+      "tenure": "7.2 years",
+      "signupDate": "2019-06-14",
+      "contacts": 14256,
+      "contactsAdded12mo": 3100,
+      "members": 67,
+      "membersAdded12mo": 30,
+      "sites": 1,
+      "addOns": [],
+      "fli": false
+    },
+    "gmv": {
+      "allTime": 3189027,
+      "trailing12mo": 356583,
+      "yoY": "-12.0%, rebounding",
+      "recentQuarter": "trending hot",
+      "processorMix": {
+        "kajabi": 329056,
+        "paypal": 27527
+      },
+      "note": "NO RSVP DATA. Built, scaled and exited company in same category. Duplicate account (60460 live, 60459 cancelled). Recent quarter trending hot."
+    },
+    "csmFocus": "NO RSVP DATA AVAILABLE. Verify correct account in use (60460, not 60459). Confirm attendance.",
+    "technicalSupport": "Account audit — confirm only active account is in use. Duplicate cleanup if needed.",
+    "riskFlags": "NO RSVP DATA. Duplicate account exists. Confirm attendance and preferences.",
+    "stage2": "Growth"
+  }
+]
