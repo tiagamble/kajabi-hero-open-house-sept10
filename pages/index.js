@@ -27,7 +27,7 @@ function HeroCard({ hero }) {
           <div className="flex justify-center mb-4"><span className={`stage-badge ${STAGE_COLORS[hero.stage] || 'bg-gray-400 text-white'}`}>{hero.stage}</span></div>
           <div className="flex gap-6 text-center text-xs">
             <div><p className="text-gray-500 uppercase tracking-wide">Tenure</p><p className="font-semibold">{hero.vitals.tenure}</p></div>
-            <div><p className="text-gray-500 uppercase tracking-wide">MRR</p><p className="font-semibold">${hero.vitals.mrr}</p></div>
+            <div><p className="text-gray-500 uppercase tracking-wide">GMV</p><p className="font-semibold">${typeof hero.gmv.trailing12mo === 'number' ? hero.gmv.trailing12mo.toLocaleString() : hero.gmv.trailing12mo}</p></div>
           </div>
           <p className="text-xs text-gray-400 text-center mt-4">Click to flip</p>
           <button onClick={(e) => {e.stopPropagation(); window.open(hero.googleDocLink, '_blank');}} className="mt-3 px-4 py-2 bg-kajabi-sage text-white text-xs font-bold rounded-md hover:bg-opacity-90 transition-all cursor-pointer">Full Profile</button>
@@ -66,7 +66,7 @@ export default function Home() {
           </div>
           <div className="py-4 mb-4">
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-6 h-6 bg-black flex items-center justify-center rounded-sm flex-shrink-0"><span className="text-white text-xs font-bold">K</span></div>
+              <div className="w-7 h-7 bg-black flex items-center justify-center rounded-sm flex-shrink-0"><span className="text-white text-sm font-bold">K</span></div>
               <h1 className="text-2xl font-bold text-black">Hero Open House</h1>
             </div>
             <div className="mb-4">
@@ -80,7 +80,7 @@ export default function Home() {
       </header>
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <p className="text-sm text-gray-600 mb-6">{filteredHeroes.length} of {heroes.length} heroes</p>
-        {filteredHeroes.length === 0 ? (<div className="text-center py-12"><p className="text-gray-500">No heroes match your search.</p></div>) : (<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">{filteredHeroes.map((hero) => (<HeroCard key={hero.id} hero={hero} />))}</div>)}
+        {filteredHeroes.length === 0 ? (<div className="text-center py-12"><p className="text-gray-500">No heroes match your search.</p></div>) : (<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">{filteredHeroes.map((hero) => (<HeroCard key={hero.id} hero={hero} />))}</div>)}
       </main>
     </div>
   );
